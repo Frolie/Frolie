@@ -4,7 +4,7 @@ I'm currently a CAD drafter at Tercom Construction interested in becoming a soft
 ## What I'm currently working on
 Harvards [CS50](https://cs50.harvard.edu/x/2023/) (Currently finished with C, and am proceeding onto python and web!)
 
-## My previous Projects
+## My Previous Projects
 [NDS_AHK](https://github.com/Frolie/NDS_AHK) - Autohotkey script for Lumen's NDS with toggleable autosave and more.
 
 FTTT_Excel_Import - A python script made as a proof of concept to automate importing job data from weekly customer data into our job data sheets.
