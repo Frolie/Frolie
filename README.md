@@ -7,7 +7,7 @@ Harvards [CS50](https://cs50.harvard.edu/x/2023/) (Currently finished with C, an
 ## My Previous Projects
 [NDS_AHK](https://github.com/Frolie/NDS_AHK) - Autohotkey script for Lumen's NDS with toggleable autosave and more.
 
-FTTT_Excel_Import - A python script made as a proof of concept to automate importing job data from weekly customer data into our job data sheets.
+[FTTT_Excel_Import](https://github.com/Frolie/FTTT-Excel-Import) - A python script made as a proof of concept to automate importing job data from weekly customer data into our job data sheets.
 
 ## Future Plans
 I'd like to attempt to program an NES emulator, learn backend web development skills, and eventually different languages such as Go and Rust.
