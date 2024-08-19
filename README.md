@@ -13,8 +13,6 @@ Harvards [CS50](https://cs50.harvard.edu/x/2023/) (Currently finished with C, an
 I'd like to attempt to program an NES emulator, learn backend web development skills, and eventually different languages such as Go and Rust.
 
 ## Contact Me
-[Linkedin](https://www.linkedin.com/in/preston-williamson-92431422a/)
-
 [Discord](https://discordapp.com/users/173488237195689993)
 <!--
 **Frolie/Frolie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
